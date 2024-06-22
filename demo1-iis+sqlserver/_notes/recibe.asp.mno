@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_mostrar" value="name:usu_rut;datatype:202,name:usu_nombre;datatype:202,name:usu_apellido;datatype:202" />
+</info>
